@@ -10,18 +10,19 @@
 
 # 3. Membuat halaman home/beranda
 
-![beranda](https://user-images.githubusercontent.com/45527518/148665144-5ad3ce18-2858-44a6-a2f7-28a52fcb116c.jpg)
+![beranda](https://user-images.githubusercontent.com/45527518/148665804-4cd8d48e-0926-44c7-b7a5-aef9f415ca17.jpg)
 
 # 4. gunakan query count unutk menampilkan jumlah data dari view
 
-![beranda](https://user-images.githubusercontent.com/45527518/148665173-15231978-f9c6-46da-8541-2665c3145575.jpg)
+
+![beranda](https://user-images.githubusercontent.com/45527518/148665809-ff9e2309-3a5b-45da-a304-9643a65e5774.jpg)
 
 # 5. Buat menu tampil data unutk master data
 
-![data karyawan](https://user-images.githubusercontent.com/45527518/148665191-f66f5394-66ba-41f7-a13d-56c3cb8a2081.jpg)
+![data karyawan](https://user-images.githubusercontent.com/45527518/148665818-ed433d72-d818-4760-bf76-678e600c020b.jpg)
 
-![data atasan](https://user-images.githubusercontent.com/45527518/148665198-33e54393-7c10-4acb-85b6-12e30bcb153d.jpg)
+![data atasan](https://user-images.githubusercontent.com/45527518/148665820-bcf1df08-f189-4d5e-94a7-bb51fee386e1.jpg)
 
-![data admin](https://user-images.githubusercontent.com/45527518/148665199-cd062ed6-e085-4418-bb45-c2de49f224ed.jpg)
+![data admin](https://user-images.githubusercontent.com/45527518/148665821-0b0d0658-c378-4cbf-bea3-260946479182.jpg)
 
-![form pengajuan cuti](https://user-images.githubusercontent.com/45527518/148665202-b50064ea-9798-4b48-a60a-f03a798c60fe.jpg)
+![form pengajuan cuti](https://user-images.githubusercontent.com/45527518/148665824-718ee4ca-38a0-4647-bd3a-ae264852ce33.jpg)
