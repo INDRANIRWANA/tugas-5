@@ -10,12 +10,12 @@
 
 # 3. Membuat halaman home/beranda
 
-![beranda](https://user-images.githubusercontent.com/45527518/148665804-4cd8d48e-0926-44c7-b7a5-aef9f415ca17.jpg)
+![beranda](https://user-images.githubusercontent.com/45527518/148665868-45a2f8fc-20fc-49ad-b1df-6b18dfbaa97e.jpg)
 
 # 4. gunakan query count unutk menampilkan jumlah data dari view
 
+![beranda](https://user-images.githubusercontent.com/45527518/148665873-326ff2b3-dec6-4a96-b787-2525c4065c45.jpg)
 
-![beranda](https://user-images.githubusercontent.com/45527518/148665809-ff9e2309-3a5b-45da-a304-9643a65e5774.jpg)
 
 # 5. Buat menu tampil data unutk master data
 
